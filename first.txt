@@ -2,3 +2,5 @@ Today is Tuesday
 Month is August
 Year is 2022
 It is raining Heavily
+we are Learning Git
+Tommorow is Wednesday
